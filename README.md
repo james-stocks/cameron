@@ -9,4 +9,4 @@ I made this because although fully featured, motion detection in software is rea
 ## Stuff I'll maybe do in future
 * Pipeline images / video into an object recognition service
 * Directly capture from RTSP using ffmpeg
-* Trigger a notification? 
+* Trigger a notification?
